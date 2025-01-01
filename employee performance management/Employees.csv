@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Role,JoinDate,Salary
+1,Dr. Eric Lopez,Finance,Executive,2021-12-20,91294
+2,Dr. Kristina Kelley,Sales,Manager,2021-12-21,43188
+3,Andrew Lozano,IT,Executive,2021-12-22,94164
+4,Edward Flores,Sales,Manager,2021-12-23,50022
+5,Dawn George,HR,Developer,2021-12-24,69736
+6,Samantha Ross,HR,Consultant,2021-12-25,56826
+7,Robert Miller,Sales,Analyst,2021-12-26,112189
+8,Gary Edwards,Marketing,Developer,2021-12-27,110664
+9,Amanda Williams,Sales,Analyst,2021-12-28,56964
+10,Rita Cannon,Sales,Executive,2021-12-29,89210
+11,Jason Morse,Sales,Executive,2021-12-30,42508
+12,Mark Parker,IT,Analyst,2021-12-31,40959
+13,Alexander Walker,Finance,Consultant,2022-01-01,100847
+14,Michelle Perez,IT,Manager,2022-01-02,117952
+15,Matthew Mcdowell,Sales,Manager,2022-01-03,63887
+16,Charlotte Brown,Sales,Executive,2022-01-04,108938
+17,Michelle Costa,HR,Consultant,2022-01-05,58109
+18,Andrew Olson,Marketing,Developer,2022-01-06,88937
+19,Keith Stewart,HR,Developer,2022-01-07,79365
+20,Angela Delacruz,Sales,Consultant,2022-01-08,47119
+21,Karen Arias,Marketing,Developer,2022-01-09,100943
+22,Matthew Banks,Sales,Consultant,2022-01-10,54165
+23,Sonya Patrick,Sales,Executive,2022-01-11,75077
+24,Rebecca Oconnor,IT,Developer,2022-01-12,70588
+25,Marc Pitts,IT,Manager,2022-01-13,115624
+26,David Mckenzie,IT,Analyst,2022-01-14,62446
+27,Joshua Jimenez,IT,Developer,2022-01-15,116424
+28,David Bowman,HR,Executive,2022-01-16,108388
+29,Charles Berg,IT,Developer,2022-01-17,99659
+30,Kathryn Adams,Finance,Consultant,2022-01-18,74977
+31,Nathaniel Adams,Marketing,Analyst,2022-01-19,106368
+32,Sara Orr,HR,Executive,2022-01-20,45867
+33,Beverly Meyer,Finance,Developer,2022-01-21,94044
+34,Mark Lee,Finance,Executive,2022-01-22,76420
+35,Paul Hall,IT,Consultant,2022-01-23,92672
+36,John Martinez MD,HR,Consultant,2022-01-24,48772
+37,Teresa Guerrero,Sales,Analyst,2022-01-25,99451
+38,Martha Taylor,IT,Manager,2022-01-26,98536
+39,Jeanne Henry,IT,Manager,2022-01-27,67900
+40,Nathan Price,HR,Developer,2022-01-28,62219
+41,William Berg,Sales,Analyst,2022-01-29,119866
+42,Angela Martin,IT,Manager,2022-01-30,73686
+43,Laura Silva,Sales,Consultant,2022-01-31,117901
+44,Sarah Jones,HR,Consultant,2022-02-01,66301
+45,David Luna,Finance,Manager,2022-02-02,50710
+46,Katherine Hernandez,Finance,Manager,2022-02-03,63868
+47,Joseph Ray,IT,Executive,2022-02-04,81738
+48,Travis Richards,Marketing,Manager,2022-02-05,113236
+49,Christian Schmidt,HR,Consultant,2022-02-06,102518
+50,Tammy Burns,Sales,Manager,2022-02-07,58972
